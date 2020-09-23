@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "tipo_de_documento": "C.C.",
+        "documento": "181278128",
+        "nombre": "Pedro Perez",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Bogota",
+        "fecha_nacimiento": "14/03/1980",
+        "salario": "$3.000.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "2",
+        "tipo_de_documento": "C.C.",
+        "documento": "82828822",
+        "nombre": "Angelica Rodriguez",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Cali",
+        "fecha_nacimiento": "14/03/1990",
+        "salario": "$2.000.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "3",
+        "tipo_de_documento": "C.C.",
+        "documento": "896278128",
+        "nombre": "Tomas Garcia",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Armenia",
+        "fecha_nacimiento": "16/02/1980",
+        "salario": "$3.000.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "4",
+        "tipo_de_documento": "C.C.",
+        "documento": "34586978",
+        "nombre": "Maria Ramirez",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Cali",
+        "fecha_nacimiento": "14/10/1985",
+        "salario": "$2.500.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "5",
+        "tipo_de_documento": "C.C.",
+        "documento": "24568963",
+        "nombre": "Felipe Gomez ",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Bogota",
+        "fecha_nacimiento": "27/02/1982",
+        "salario": "$3.000.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "6",
+        "tipo_de_documento": "C.C.",
+        "documento": "456632314",
+        "nombre": "Manuel Torres",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Bucaramanga",
+        "fecha_nacimiento": "14/03/1991",
+        "salario": "$2.280.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "7",
+        "tipo_de_documento": "C.C.",
+        "documento": "78965542",
+        "nombre": "Jaime Perez",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Bogota",
+        "fecha_nacimiento": "01/10/1975",
+        "salario": "$3.100.000",
+        "tipo_de_Sangre": "O+"
+    },
+    {
+        "id": "8",
+        "tipo_de_documento": "C.C.",
+        "documento": "1080456986",
+        "nombre": "Andrea Torres",
+        "cargo": "Contadora",
+        "lugar_nacimiento": "Ibague",
+        "fecha_nacimiento": "10/05/1993",
+        "salario": "$1.900.000",
+        "tipo_de_Sangre": "A-"
+    },
+    {
+        "id": "9",
+        "tipo_de_documento": "C.C.",
+        "documento": "32569856",
+        "nombre": "Ana lozano",
+        "cargo": "Asesor Comercial",
+        "lugar_nacimiento": "Bogota",
+        "fecha_nacimiento": "21/07/1971",
+        "salario": "$3.200.000",
+        "tipo_de_Sangre": "A+"
+    },
+    {
+        "id": "10",
+        "tipo_de_documento": "C.C.",
+        "documento": "1092658963",
+        "nombre": "Angie Lopez",
+        "cargo": "Gerente",
+        "lugar_nacimiento": "Medellin",
+        "fecha_nacimiento": "20/06/1978",
+        "salario": "$8.000.000",
+        "tipo_de_Sangre": "A+"
+    }
+]

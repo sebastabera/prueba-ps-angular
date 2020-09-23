@@ -1,0 +1,45 @@
+<div class="mt-4 mb-4">
+  <h4 class="mb-4">Listado de empleados</h4>
+  <form>
+    <div class="form-row align-items-center">
+      <div class="col-auto">
+        <label class="sr-only" for="name">Nombre</label>
+        <input type="text" class="form-control mb-2" id="name" ng-model="filter.name" placeholder="Nombre">
+      </div>
+      <div class="col-auto">
+        <label class="sr-only" for="document">Documento</label>
+        <input type="text" data-onlynumber class="form-control mb-2" id="document" ng-model="filter.document"
+          placeholder="Documento">
+      </div>
+      <div class="col-auto">
+        <button type="submit" class="btn btn-info mb-2" ng-click="find()">Buscar</button>
+      </div>
+    </div>
+  </form>
+</div>
+<div>
+  <table class="table">
+    <thead class="thead-dark">
+      <tr class="text-center">
+        <th scope="col">Tipo documento</th>
+        <th scope="col">Documento</th>
+        <th scope="col">Nombre</th>
+        <th scope="col">Cargo</th>
+        <th scope="col">Ver más</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="text-center" ng-repeat="e in employees">
+        <td>{{e.tipo_de_documento}}</th>
+        <td>{{e.documento}}</td>
+        <td>{{e.nombre}}</td>
+        <td>{{e.cargo}}</td>
+        <td>
+          <button type="button" class="btn btn-info" 
+            ng-click="findEmployee(e.id)">Ver</button>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
